@@ -86,13 +86,7 @@ h1 {
 </html>```
 
 ## OUTPUT
-
-<img width="1031" height="575" alt="image" src="https://github.com/user-attachments/assets/e6e52824-e910-4381-8f57-fb6e1de7583a" />
-
-
-
-
-
+<img width="1915" height="894" alt="map" src="https://github.com/user-attachments/assets/c0218766-b76b-4a40-8761-04ed0859b26f" />
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
